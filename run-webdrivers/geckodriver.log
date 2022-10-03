@@ -1,0 +1,113 @@
+1664692981933	geckodriver	INFO	Listening on 127.0.0.1:50620
+1664692984985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileB5s83W"
+1664692985597	Marionette	INFO	Marionette enabled
+1664692985605	Marionette	INFO	Listening on port 50631
+Read port: 50631
+WebDriver BiDi listening on ws://127.0.0.1:50621
+1664692985785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileB5s83W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50621/devtools/browser/df711517-4e68-4189-88a8-e26ab6e68689
+1664693039463	Marionette	INFO	Stopped listening on port 50631
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileKHLnmk"
+1664693037500	Marionette	INFO	Marionette enabled
+1664693037507	Marionette	INFO	Listening on port 50688
+WebDriver BiDi listening on ws://127.0.0.1:50679
+Read port: 50688
+1664693037903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileKHLnmk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50679/devtools/browser/605b8146-7271-45c1-931e-b7cff21b6271
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1664693853657	Marionette	INFO	Stopped listening on port 50688
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664703094441	geckodriver	INFO	Listening on 127.0.0.1:51645
+1664703097528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile0QZNpF"
+1664703098392	Marionette	INFO	Marionette enabled
+1664703098406	Marionette	INFO	Listening on port 51655
+Read port: 51655
+WebDriver BiDi listening on ws://127.0.0.1:51646
+1664703098617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile0QZNpF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51646/devtools/browser/1949ccc9-9e42-4637-8ccf-38aa2a635124
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664703115474	Marionette	INFO	Stopped listening on port 51655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664703126688	geckodriver	INFO	Listening on 127.0.0.1:51686
+1664703129741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile18BY4r"
+1664703130301	Marionette	INFO	Marionette enabled
+1664703130308	Marionette	INFO	Listening on port 51696
+Read port: 51696
+WebDriver BiDi listening on ws://127.0.0.1:51687
+1664703130562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofile18BY4r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51687/devtools/browser/6cad2267-90c8-421f-845b-4cea3c4cbb30
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664703145862	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-02T09:32:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:32:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:32:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:32:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:32:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:32:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:32:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:32:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YrdBSjzfIHcYhYLmavhSyO_EhBrLUWpx5ykdL7H9Kqg.js line 2 > eval line 1893 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664705650044	Marionette	INFO	Stopped listening on port 51696
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+ning on ws://127.0.0.1:51777/devtools/browser/9f6f59ae-8aa6-4b02-a7a9-3fbffa346af5
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[2022-10-02T09:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:34:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1664703550860	Marionette	INFO	Stopped listening on port 51786
+1664711821596	geckodriver	INFO	Listening on 127.0.0.1:54115
+1664711824701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileK0kRck"
+1664711825548	Marionette	INFO	Marionette enabled
+1664711825561	Marionette	INFO	Listening on port 54125
+Read port: 54125
+WebDriver BiDi listening on ws://127.0.0.1:54116
+1664711825782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileK0kRck\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54116/devtools/browser/082dae9a-ac53-429e-a6f8-3e264c9b5480
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664711840408	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-02T11:57:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T11:57:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T11:57:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T11:57:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T11:57:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T11:57:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T11:57:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T11:57:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YrdBSjzfIHcYhYLmavhSyO_EhBrLUWpx5ykdL7H9Kqg.js line 2 > eval line 5080 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YrdBSjzfIHcYhYLmavhSyO_EhBrLUWpx5ykdL7H9Kqg.js line 2 > eval line 470 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664716914067	Marionette	INFO	Stopped listening on port 54125
+1664728335230	geckodriver	INFO	Listening on 127.0.0.1:54640
+1664728338321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileekOZMo"
+1664728338760	Marionette	INFO	Marionette enabled
+1664728338765	Marionette	INFO	Listening on port 54650
+WebDriver BiDi listening on ws://127.0.0.1:54641
+Read port: 54650
+1664728339057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileekOZMo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54641/devtools/browser/71bfe8b8-c6ac-40ef-af18-aaa0145ff407
+1664728345971	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-02T16:32:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T16:32:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T16:32:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T16:32:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T16:32:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T16:32:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T16:32:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T16:32:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1664728883280	Marionette	INFO	Stopped listening on port 54650
