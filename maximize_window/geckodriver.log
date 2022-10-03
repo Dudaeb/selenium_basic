@@ -43,3 +43,24 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a
 [Child 1564, MediaDecoderStateMachine #1] WARNING: Decoder=18259990300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
 [Child 1564, MediaDecoderStateMachine #1] WARNING: Decoder=18259990300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
 1664767988973	Marionette	INFO	Stopped listening on port 51161
+1664829814434	geckodriver	INFO	Listening on 127.0.0.1:51289
+1664829817587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileYTe5Ej"
+1664829818390	Marionette	INFO	Marionette enabled
+1664829818398	Marionette	INFO	Listening on port 51299
+Read port: 51299
+WebDriver BiDi listening on ws://127.0.0.1:51290
+1664829818602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileYTe5Ej\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51290/devtools/browser/e3b4afa3-a308-4f5f-af63-85eecc7e6bdb
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664829851879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-03T20:44:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-03T20:44:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-03T20:44:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-03T20:44:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-03T20:44:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-03T20:44:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-03T20:44:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-03T20:44:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1664829865755	Marionette	INFO	Stopped listening on port 51299

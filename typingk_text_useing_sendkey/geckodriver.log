@@ -31,3 +31,72 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:51653/devtools/browser/b07a3d3a-552e-4a59-ab05-0c221517974a
 1664769359958	Marionette	INFO	Stopped listening on port 51662
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664772167863	geckodriver	INFO	Listening on 127.0.0.1:53197
+1664772170914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileOtakQn"
+1664772171517	Marionette	INFO	Marionette enabled
+1664772171525	Marionette	INFO	Listening on port 53209
+Read port: 53209
+WebDriver BiDi listening on ws://127.0.0.1:53198
+1664772171689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileOtakQn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53198/devtools/browser/c212fa3c-aa93-4953-8f95-7ab535234c43
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.tutorialsninja.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.tutorialsninja.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664785757015	Marionette	INFO	Stopped listening on port 53209
+01	Marionette	INFO	Marionette enabled
+1664772217909	Marionette	INFO	Listening on port 53285
+Read port: 53285
+WebDriver BiDi listening on ws://127.0.0.1:53275
+1664772218129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileJtWufN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53275/devtools/browser/a95dc2fd-0962-48be-9542-a91762bb7199
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.tutorialsninja.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664785758520	Marionette	INFO	Stopped listening on port 53285
+calhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileTv8ApU"
+1664772337293	Marionette	INFO	Marionette enabled
+1664772337301	Marionette	INFO	Listening on port 53451
+WebDriver BiDi listening on ws://127.0.0.1:53441
+Read port: 53451
+1664772337635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileTv8ApU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53441/devtools/browser/d19a4ec1-fddb-479e-9fc9-010b950dd432
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1664785759132	Marionette	INFO	Stopped listening on port 53451
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileBaps5F"
+1664772484557	Marionette	INFO	Marionette enabled
+1664772484565	Marionette	INFO	Listening on port 53621
+Read port: 53621
+WebDriver BiDi listening on ws://127.0.0.1:53610
+1664772484743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileBaps5F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53610/devtools/browser/07f07a68-1ac4-4270-b591-ee8ee4b14d81
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.tutorialsninja.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664785760041	Marionette	INFO	Stopped listening on port 53621
+calhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileRz4Kgv"
+1664772556455	Marionette	INFO	Marionette enabled
+1664772556462	Marionette	INFO	Listening on port 53715
+WebDriver BiDi listening on ws://127.0.0.1:53704
+Read port: 53715
+1664772556816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileRz4Kgv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53704/devtools/browser/99d2028a-7e2b-4e55-8367-e0c49081f6be
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1664785760899	Marionette	INFO	Stopped listening on port 53715
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileWXwC6X"
+1664785587079	Marionette	INFO	Marionette enabled
+1664785587087	Marionette	INFO	Listening on port 54850
+Read port: 54850
+WebDriver BiDi listening on ws://127.0.0.1:54837
+1664785587278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofileWXwC6X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54837/devtools/browser/6fc9a37f-a17c-44b9-95e8-411f99a0589c
+1664785761729	Marionette	INFO	Stopped listening on port 54850
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
