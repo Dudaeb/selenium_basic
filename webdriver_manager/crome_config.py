@@ -1,8 +1,7 @@
-from webbrowser import Chrome
-
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.crome import ChromeServiceManager
+from webdriver_manager.chrome import ChromeDriverManager
 
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
-driver.get("https://www.google.com/")
+driver.maximize_window()
+driver.get("http://www.iiuc.ac.bd")
