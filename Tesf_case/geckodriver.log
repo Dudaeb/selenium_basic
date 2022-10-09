@@ -31,3 +31,14 @@ DevTools listening on ws://127.0.0.1:52459/devtools/browser/39fab9c7-894d-4b81-b
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 1664728328815	Marionette	INFO	Stopped listening on port 52469
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665343883219	geckodriver	INFO	Listening on 127.0.0.1:64904
+1665343886261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilezDFkbv"
+1665343886832	Marionette	INFO	Marionette enabled
+1665343886838	Marionette	INFO	Listening on port 64914
+Read port: 64914
+WebDriver BiDi listening on ws://127.0.0.1:64905
+1665343887046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hp\\AppData\\Local\\Temp\\rust_mozprofilezDFkbv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64905/devtools/browser/403f8ff4-3748-4926-a959-215123f6164a
+1665343905938	Marionette	INFO	Stopped listening on port 64914
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
